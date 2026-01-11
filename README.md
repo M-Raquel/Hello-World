@@ -1,21 +1,20 @@
 # Overview
 
-{This is a basic Hello World program. I created this to demostrate the use of visual studio code, GitHub, and Python integrated together.}
+This is a basic Hello World program. I created this to demostrate the use of Visual Studio Code, GitHub, and Python integrated together.
 
-{Describe your purpose for creating this software.}
+Here's a link to a demonstration of my program running. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=ppDKiDEwirA)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Visual Studio Code
+Git/GitHub
+Python version 3.13.7
 
-{Describe the programming language that you used}
+I used Python to write this. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Python Docs](https://docs.python.org/3.13/)
+* [Python Input](https://realpython.com/ref/builtin-functions/input/)
